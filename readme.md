@@ -11,3 +11,9 @@
 * `git commit -m "message"` - Commit changes to local repository
 
 * `git add -A` - Add all new and changed files to staging area
+
+* `git checkout -b branchname` - Create a new branch and switch to it
+
+* `git checkout branchname` - Switch to a branch
+
+* `git branch` - List branches
