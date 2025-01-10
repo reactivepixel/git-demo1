@@ -21,3 +21,7 @@
 * `git merge branch` - Merge changes from another branch
 
 * `git remote add origin url` - Add a remote repository
+
+* `git push origin master` - Push changes to remote repository
+
+* `git pull` - Pull latest from remote repository
