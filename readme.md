@@ -11,3 +11,5 @@
 * `git commit -m "message"` - Commit changes to local repository
 
 * `git add -A` - Add all new and changed files to staging area
+
+* `git merge branch` - Merge changes from another branch
