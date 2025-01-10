@@ -19,3 +19,5 @@
 * `git branch` - List branches
 
 * `git merge branch` - Merge changes from another branch
+
+* `git remote add origin url` - Add a remote repository
